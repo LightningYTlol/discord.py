@@ -1,3 +1,3 @@
 # kick-ban-py
 
-Updates: 
+Updates: Added unban command, 
